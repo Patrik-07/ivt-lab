@@ -1,6 +1,10 @@
 package hu.bme.mit.spaceship;
 
+<<<<<<< HEAD
 // new comment
+=======
+// another comment
+>>>>>>> branch-B
 
 /**
 * Defines basic spaceship functionality
